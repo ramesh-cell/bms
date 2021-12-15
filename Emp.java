@@ -1,1 +1,4 @@
-public class Emp{}
+public class Emp{
+
+public Emp(){}
+}
